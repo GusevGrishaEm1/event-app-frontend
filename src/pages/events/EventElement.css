@@ -1,0 +1,16 @@
+.event-element {
+    border-bottom: 2px solid;
+    display: block;
+    text-align: center;
+}
+
+.event-element:hover {
+    transform: scale(1);
+    background: #1C8EF9;
+    color: #FFFFFF;
+}
+
+.event-element-name {
+    font-weight: bold;
+    font-size: 20px;
+}
